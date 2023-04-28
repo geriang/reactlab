@@ -1,0 +1,14 @@
+[
+    {
+      "display": "Indoor",
+      "value": "indoor"
+    },
+    {
+      "display": "Outdoor",
+      "value": "outdoor"
+    },
+    {
+      "display": "VIP",
+      "value": "vip"
+    }
+  ]
